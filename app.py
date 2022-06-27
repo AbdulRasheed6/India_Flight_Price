@@ -72,8 +72,11 @@ def predict():
   
             dur_min= (abs(Arrival_hour-Dep_hour)*60) + (Arrival_min-Dep_min)
             #print(int(dur_min))
-     
-    
+        elif (Arrival_day-Journey_day)==1:
+            dur_min= (abs((Arrival_hour+24)-(Dep_hour))*60) + (Arrival_min-Dep_min) 
+        
+        elif (Arrival_day-Journey_day)==0:
+           dur_min= (abs((Arrival_hour)-(Dep_hour))*60) + (Arrival_min-Dep_min) 
    
         else:
             dur_min=0
