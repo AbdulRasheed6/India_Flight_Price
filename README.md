@@ -54,7 +54,8 @@ pip install -r requirements.txt
 ```
 
 ## Deployement on Heroku
-Login or signup in order to create virtual app. You can either connect your github profile or download ctl to manually deploy this project.
+Login or signup in order to create virtual app. You can deploy  the web app using github  or download the heroku 
+ctl to manually deploy this project.
 
 [![](https://i.imgur.com/dKmlpqX.png)](https://heroku.com)
 
