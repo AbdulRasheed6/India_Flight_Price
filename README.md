@@ -44,7 +44,7 @@ Jet Airways buisness and Jet Airways are the most expensive airline, while spice
 As the number of stops increases the prices also increases.
 Delhi, kolkata and banglore are the most expensive airport to take off from.
 Spicejet and vistara premium economy airways takes lesser time to get to their destination compared to other airways.
-It takes more time for airlines to get to banglore compared to other airways, it might be as a result of traffic or distance.
+It takes more time for airlines to get to banglore compared to other destinations, it might be as a result of traffic or distance.
 
 
 ## Installation
