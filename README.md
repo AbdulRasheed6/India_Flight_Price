@@ -1,5 +1,5 @@
 
- An issue might occur when trying to view the jupyter notebook , check this link to view the notebook(https://nbviewer.org/github/AbdulRasheed6/Sapa_Dataset/blob/main/Aramco_stock_price_prediction.ipynb)
+ An issue might occur when trying to view the jupyter notebook , check this link to view the notebook(https://nbviewer.org/github/AbdulRasheed6/India_Flight_Price/blob/main/Flight_Prediction.ipynb)
 
 
 # India Flight Fare Prediction: 
